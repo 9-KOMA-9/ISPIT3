@@ -1,0 +1,7 @@
+C:\Users\ucenik\source\repos\provjeraznanja3\bin\Debug\provjeraznanja3.exe.config
+C:\Users\ucenik\source\repos\provjeraznanja3\bin\Debug\provjeraznanja3.exe
+C:\Users\ucenik\source\repos\provjeraznanja3\bin\Debug\provjeraznanja3.pdb
+C:\Users\ucenik\source\repos\provjeraznanja3\obj\Debug\provjeraznanja3.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\provjeraznanja3\obj\Debug\provjeraznanja3.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\provjeraznanja3\obj\Debug\provjeraznanja3.exe
+C:\Users\ucenik\source\repos\provjeraznanja3\obj\Debug\provjeraznanja3.pdb
